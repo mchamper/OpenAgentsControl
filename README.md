@@ -14,8 +14,8 @@
 📝 **Editable Agents** - Full control over AI behavior  
 👥 **Team-Ready** - Everyone uses the same patterns
 
-**Multi-language:** TypeScript • Python • Go • Rust • C# • Any language*  
-**Model Agnostic:** Claude • GPT • Gemini • Local models
+**Multi-language:** TypeScript • Python • Go • Rust  • C# • Any language*  
+**Model Agnostic:** Claude • GPT • Gemini • MiniMax • Local models
 
 
 [![GitHub stars](https://img.shields.io/github/stars/darrenhinde/OpenAgentsControl?style=flat-square&logo=github&labelColor=black&color=ffcb47)](https://github.com/darrenhinde/OpenAgentsControl/stargazers)
@@ -692,8 +692,8 @@ A: No, but it's highly recommended. Without context, agents write generic code. 
 **Q: Can I use this without customization?**  
 A: Yes, it works out of the box. But you'll get the most value after adding your patterns (10-15 minutes with `/add-context`).
 
-**Q: What models are supported?**  
-A: Any model from any provider (Claude, GPT, Gemini, local models). No vendor lock-in.
+**Q: What models are supported?**
+A: Any model from any provider (Claude, GPT, Gemini, MiniMax, local models). No vendor lock-in.
 
 ### For Teams
 
